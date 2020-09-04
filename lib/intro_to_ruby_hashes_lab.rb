@@ -1,15 +1,13 @@
-def new_hash {
-  }
+def new_hash 
+  { }
 end
 
-def my_hash {
-  fav_drink: "coffee"
-  }
+def my_hash 
+  {:fav_drink => "coffee"}
 end
 
-def pioneer {
-  :name => "Grace Hopper"
-  }
+def pioneer 
+  {:name => "Grace Hopper"}
 end
 
 
